@@ -1,0 +1,19 @@
+# Dependencies
+target/
+*.class
+*.jar
+
+# Android SDK
+/opt/android-sdk/
+
+# Temp files
+/tmp/apk_classes/
+/tmp/*.java
+/tmp/*.zip
+
+# Build artifacts
+*.apk
+
+# OS files
+.DS_Store
+Thumbs.db
